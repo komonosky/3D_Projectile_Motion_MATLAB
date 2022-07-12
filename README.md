@@ -12,3 +12,6 @@ To play:
  - The program will prompt the user for various settings, such as difficulty (magnet strength) and projectile size and weight
  - After making all selections, the projectile will launch
  - Points are scored based on how close the projectile gets to the red box (target)
+
+REQUIREMENTS
+ - You will need some version of MATLAB. I believe this was written using R2021a, but older/newer versions should work fine 
